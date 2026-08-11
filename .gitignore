@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Config & Environment
+.env
+.env.local
+
+# OS Generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log

@@ -1,0 +1,7 @@
+{
+  "imageFolder": "C:\\Users\\Public\\Pictures",
+  "imagePath": "",
+  "opacity": 0.5,
+  "intervalSeconds": 60,
+  "debugPort": 9341
+}
